@@ -1,0 +1,9 @@
+production:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: true
+  database: <bd-da-app>
+  pool: 5
+  username: root
+  password: 123456
+  socket: /var/run/mysqld/mysqld.sock

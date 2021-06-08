@@ -14,5 +14,7 @@
   },
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/felipe7147/time_to_answer.git",
+  "author": "Felipe Almeida <Felipe_nunesrodrigues@hotmail.com>"
 }
